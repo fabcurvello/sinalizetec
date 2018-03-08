@@ -1,0 +1,6 @@
+framework module Pods_sinalizetec {
+  umbrella header "Pods-sinalizetec-umbrella.h"
+
+  export *
+  module * { export * }
+}

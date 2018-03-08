@@ -7,21 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F90B0A61FB3250000F082B7 /* DetalhesSolicitacaoEmAbertoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F90B0A51FB3250000F082B7 /* DetalhesSolicitacaoEmAbertoViewController.swift */; };
+		8634C973592B85766D8859BE /* Pods_sinalizetec.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E2C412410614EE587BE20A1 /* Pods_sinalizetec.framework */; };
+		D532A6CE1FA2505B00FE86F2 /* InicioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D532A6CD1FA2505B00FE86F2 /* InicioViewController.swift */; };
+		D532A6D01FA2506E00FE86F2 /* EntrarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D532A6CF1FA2506E00FE86F2 /* EntrarViewController.swift */; };
+		D532A6D21FA2508100FE86F2 /* CriarContaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D532A6D11FA2508100FE86F2 /* CriarContaViewController.swift */; };
+		D532A6D51FA253D800FE86F2 /* Alerta.swift in Sources */ = {isa = PBXBuildFile; fileRef = D532A6D41FA253D800FE86F2 /* Alerta.swift */; };
 		D59C73371FA0B54D001413CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59C73361FA0B54D001413CA /* AppDelegate.swift */; };
-		D59C73391FA0B54D001413CA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D59C73381FA0B54D001413CA /* ViewController.swift */; };
 		D59C733C1FA0B54D001413CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D59C733A1FA0B54D001413CA /* Main.storyboard */; };
 		D59C733E1FA0B54D001413CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D59C733D1FA0B54D001413CA /* Assets.xcassets */; };
 		D59C73411FA0B54D001413CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D59C733F1FA0B54D001413CA /* LaunchScreen.storyboard */; };
+		D59C73491FA0B667001413CA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D59C73481FA0B667001413CA /* GoogleService-Info.plist */; };
+		D5E289F61FA6464F001AB056 /* SolicitacoesEmAbertoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E289F51FA6464F001AB056 /* SolicitacoesEmAbertoTableViewController.swift */; };
+		D5E289F81FA64A54001AB056 /* Solicitacao.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E289F71FA64A54001AB056 /* Solicitacao.swift */; };
+		D5E289FA1FA650CF001AB056 /* SolicitacaoEmAbertoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E289F91FA650CF001AB056 /* SolicitacaoEmAbertoTableViewCell.swift */; };
+		D5E289FC1FA66F3F001AB056 /* AguardandoAutorizacaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E289FB1FA66F3F001AB056 /* AguardandoAutorizacaoViewController.swift */; };
+		D5EE3DA41FA3618300A1E23A /* Tecnico.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5EE3DA31FA3618300A1E23A /* Tecnico.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0E2C412410614EE587BE20A1 /* Pods_sinalizetec.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_sinalizetec.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2DA17DB25EA119DF87DC85D1 /* Pods-sinalizetec.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sinalizetec.debug.xcconfig"; path = "Pods/Target Support Files/Pods-sinalizetec/Pods-sinalizetec.debug.xcconfig"; sourceTree = "<group>"; };
+		7F90B0A51FB3250000F082B7 /* DetalhesSolicitacaoEmAbertoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesSolicitacaoEmAbertoViewController.swift; sourceTree = "<group>"; };
+		D532A6CD1FA2505B00FE86F2 /* InicioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InicioViewController.swift; sourceTree = "<group>"; };
+		D532A6CF1FA2506E00FE86F2 /* EntrarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntrarViewController.swift; sourceTree = "<group>"; };
+		D532A6D11FA2508100FE86F2 /* CriarContaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CriarContaViewController.swift; sourceTree = "<group>"; };
+		D532A6D41FA253D800FE86F2 /* Alerta.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alerta.swift; sourceTree = "<group>"; };
 		D59C73331FA0B54D001413CA /* sinalizetec.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sinalizetec.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D59C73361FA0B54D001413CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D59C73381FA0B54D001413CA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D59C733B1FA0B54D001413CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D59C733D1FA0B54D001413CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D59C73401FA0B54D001413CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D59C73421FA0B54D001413CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D59C73481FA0B667001413CA /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		D5E289F51FA6464F001AB056 /* SolicitacoesEmAbertoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolicitacoesEmAbertoTableViewController.swift; sourceTree = "<group>"; };
+		D5E289F71FA64A54001AB056 /* Solicitacao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solicitacao.swift; sourceTree = "<group>"; };
+		D5E289F91FA650CF001AB056 /* SolicitacaoEmAbertoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolicitacaoEmAbertoTableViewCell.swift; sourceTree = "<group>"; };
+		D5E289FB1FA66F3F001AB056 /* AguardandoAutorizacaoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AguardandoAutorizacaoViewController.swift; sourceTree = "<group>"; };
+		D5EE3DA31FA3618300A1E23A /* Tecnico.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tecnico.swift; sourceTree = "<group>"; };
+		DD1346B2F4ABEA4A7975F957 /* Pods-sinalizetec.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sinalizetec.release.xcconfig"; path = "Pods/Target Support Files/Pods-sinalizetec/Pods-sinalizetec.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +53,62 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8634C973592B85766D8859BE /* Pods_sinalizetec.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		000DD3E2C6A6537FCF8A5F5A /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2DA17DB25EA119DF87DC85D1 /* Pods-sinalizetec.debug.xcconfig */,
+				DD1346B2F4ABEA4A7975F957 /* Pods-sinalizetec.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A3F7C5C00E9A0847145AD0A9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0E2C412410614EE587BE20A1 /* Pods_sinalizetec.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D532A6CC1FA2502D00FE86F2 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				D5E289F51FA6464F001AB056 /* SolicitacoesEmAbertoTableViewController.swift */,
+				D5E289F91FA650CF001AB056 /* SolicitacaoEmAbertoTableViewCell.swift */,
+				7F90B0A51FB3250000F082B7 /* DetalhesSolicitacaoEmAbertoViewController.swift */,
+				D532A6CD1FA2505B00FE86F2 /* InicioViewController.swift */,
+				D532A6CF1FA2506E00FE86F2 /* EntrarViewController.swift */,
+				D532A6D11FA2508100FE86F2 /* CriarContaViewController.swift */,
+				D5E289FB1FA66F3F001AB056 /* AguardandoAutorizacaoViewController.swift */,
+			);
+			path = "View Controllers";
+			sourceTree = "<group>";
+		};
+		D532A6D31FA253B500FE86F2 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D532A6D41FA253D800FE86F2 /* Alerta.swift */,
+				D5EE3DA31FA3618300A1E23A /* Tecnico.swift */,
+				D5E289F71FA64A54001AB056 /* Solicitacao.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 		D59C732A1FA0B54D001413CA = {
 			isa = PBXGroup;
 			children = (
 				D59C73351FA0B54D001413CA /* sinalizetec */,
 				D59C73341FA0B54D001413CA /* Products */,
+				D59C73481FA0B667001413CA /* GoogleService-Info.plist */,
+				000DD3E2C6A6537FCF8A5F5A /* Pods */,
+				A3F7C5C00E9A0847145AD0A9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,10 +124,11 @@
 			isa = PBXGroup;
 			children = (
 				D59C73361FA0B54D001413CA /* AppDelegate.swift */,
-				D59C73381FA0B54D001413CA /* ViewController.swift */,
+				D532A6CC1FA2502D00FE86F2 /* View Controllers */,
+				D532A6D31FA253B500FE86F2 /* Models */,
 				D59C733A1FA0B54D001413CA /* Main.storyboard */,
-				D59C733D1FA0B54D001413CA /* Assets.xcassets */,
 				D59C733F1FA0B54D001413CA /* LaunchScreen.storyboard */,
+				D59C733D1FA0B54D001413CA /* Assets.xcassets */,
 				D59C73421FA0B54D001413CA /* Info.plist */,
 			);
 			path = sinalizetec;
@@ -71,9 +141,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D59C73451FA0B54D001413CA /* Build configuration list for PBXNativeTarget "sinalizetec" */;
 			buildPhases = (
+				02CC939761D4A88995098E73 /* [CP] Check Pods Manifest.lock */,
 				D59C732F1FA0B54D001413CA /* Sources */,
 				D59C73301FA0B54D001413CA /* Frameworks */,
 				D59C73311FA0B54D001413CA /* Resources */,
+				2ACB8153109D29CC2147CE0A /* [CP] Embed Pods Frameworks */,
+				DF65A7B005D3389FCC0EF81D /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -124,6 +197,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D59C73411FA0B54D001413CA /* LaunchScreen.storyboard in Resources */,
+				D59C73491FA0B667001413CA /* GoogleService-Info.plist in Resources */,
 				D59C733E1FA0B54D001413CA /* Assets.xcassets in Resources */,
 				D59C733C1FA0B54D001413CA /* Main.storyboard in Resources */,
 			);
@@ -131,13 +205,84 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		02CC939761D4A88995098E73 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-sinalizetec-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2ACB8153109D29CC2147CE0A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-sinalizetec/Pods-sinalizetec-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-sinalizetec/Pods-sinalizetec-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DF65A7B005D3389FCC0EF81D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-sinalizetec/Pods-sinalizetec-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		D59C732F1FA0B54D001413CA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D59C73391FA0B54D001413CA /* ViewController.swift in Sources */,
 				D59C73371FA0B54D001413CA /* AppDelegate.swift in Sources */,
+				D532A6D51FA253D800FE86F2 /* Alerta.swift in Sources */,
+				D5E289FA1FA650CF001AB056 /* SolicitacaoEmAbertoTableViewCell.swift in Sources */,
+				D532A6CE1FA2505B00FE86F2 /* InicioViewController.swift in Sources */,
+				D532A6D21FA2508100FE86F2 /* CriarContaViewController.swift in Sources */,
+				7F90B0A61FB3250000F082B7 /* DetalhesSolicitacaoEmAbertoViewController.swift in Sources */,
+				D5E289FC1FA66F3F001AB056 /* AguardandoAutorizacaoViewController.swift in Sources */,
+				D532A6D01FA2506E00FE86F2 /* EntrarViewController.swift in Sources */,
+				D5E289F61FA6464F001AB056 /* SolicitacoesEmAbertoTableViewController.swift in Sources */,
+				D5EE3DA41FA3618300A1E23A /* Tecnico.swift in Sources */,
+				D5E289F81FA64A54001AB056 /* Solicitacao.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,10 +417,13 @@
 		};
 		D59C73461FA0B54D001413CA /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2DA17DB25EA119DF87DC85D1 /* Pods-sinalizetec.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 2N5RB6JS46;
 				INFOPLIST_FILE = sinalizetec/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = br.com.fabriciocurvello.sinalizetec.sinalizetec;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -286,10 +434,13 @@
 		};
 		D59C73471FA0B54D001413CA /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DD1346B2F4ABEA4A7975F957 /* Pods-sinalizetec.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 2N5RB6JS46;
 				INFOPLIST_FILE = sinalizetec/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = br.com.fabriciocurvello.sinalizetec.sinalizetec;
 				PRODUCT_NAME = "$(TARGET_NAME)";
